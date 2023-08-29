@@ -1,5 +1,5 @@
 # Baixando Fontes Customizadas
-Projeto para exemplificar como baixar as fontes customizadas utilizando HTML e CSS.
+Projeto para exemplificar como baixar as fontes customizadas (foi usado o site dafont.com) utilizando HTML e CSS.
 
 ## Resultado Final
 
