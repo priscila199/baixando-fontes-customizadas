@@ -3,7 +3,7 @@ Projeto para exemplificar como baixar as fontes customizadas (foi usado o site d
 
 ## Resultado Final
 
-[<img src="./resultado.jpg" alt="baixando fontes customizadas usando HTML e CSS">](https://priscila199.github.io/baixando-fontes-customizadas/)
+[<img src="./resultado1.jpg" alt="baixando fontes customizadas usando HTML e CSS">](https://priscila199.github.io/baixando-fontes-customizadas/)
 
 ## Tecnologia Utilizada
 - HTML
