@@ -5,6 +5,6 @@ Projeto para exemplificar como baixar as fontes customizadas (foi usado o site d
 
 [<img src="./resultado1.jpg" alt="baixando fontes customizadas usando HTML e CSS">](https://priscila199.github.io/baixando-fontes-customizadas/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
